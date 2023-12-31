@@ -1,0 +1,21 @@
+
+OLÁ!
+
+Esse projeto foi desenvolvido durante uma competição HackDay da Comunidade DS. Uma competição que ocorre em um final semana, no qual reunem alunos da comunidade e dividem em equipes de diferentes níveis de aprendizado. Visando trazer o aluno para ter um contado com um problema de negócio mais próximo do real. Onde aqueles alunos mais avançados possam colocar seus conhecimentos e habilidades em prática e os alunos mais novos possam ter o primeiro contato com um problema real de ciência de dados e saber como é desenvolvido a solução. Alem de poder desenvolver o trabalho em equipe, afastar aquela síndrome do impostor e poder ter uma interação entre os alunos da comunidade.
+O notebook apresentado foi desenvolvido em equipe, usando os dados de treino. Está dividido e organizado na sequencia de um projeto end-to-end, para melhor visualização e entendimento de todo o processo que foi feito e do código.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+O PROBLEMA DE NEGÓCIO ESTABELECIDO
+A EletroPlaza Store é um conglomerado de lojas presente em diversos países do mundo. Apesar da presença online da marca, as vendas são predominantemente físicas. A multinacional atua com eletrônicos, eletrodomésticos e acessórios em geral, oferecendo produtos acessíveis e de qualidade para uma vasta gama de clientes.
+Após diversos investimentos realizados nos setores de vendas, marketing e desenvolvimento de produtos, a empresa teve um grande salto em seu faturamento no último ano. Porém, junto ao faturamento, vieram novos desafios em tentar entender precisamente como as vendas vão continuar se comportando nas próximas semanas.
+O ano está chegando ao fim e a Black Friday e o Natal estão se aproximando. As vendas tendem a subir exponencialmente ainda mais nessa época e os dados de comparação do ano passado já não servem mais como termômetro para a empresa. Além disso, a equipe de negócio tem uma meta de faturamento e está preocupada se conseguirá alcançá-la. A urgência em entender os possíveis resultados é grande.
+O desafio da sua equipe, formada por cientistas e analistas de dados, é construir uma solução que preveja as vendas semanais das lojas e de seus variados setores para as 5 semanas finais do ano. Deste modo, os gestores da EletroPlaza Store poderão definir planos futuros, organizar estoques, calcular receitas, decidir se farão novos investimentos ou não e onde devem alocar estes novos investimentos, através de campanhas mais eficientes de marketing e vendas.
+Os dados disponíveis para a previsão são referentes às vendas realizadas do início do ano vigente até o momento. Cada linha representa um setor específico de uma loja específica naquela determinada semana. São fornecidas diversas informações para análise, inclusive dados externos como temperatura, preço de combustível e taxa de desemprego. Ainda, devido a urgência da solicitação, há diversos dados faltantes na base e a sua equipe não tem tempo hábil o suficiente para coletá-los, devendo buscar soluções alternativas para que mesmo assim consiga realizar previsões eficazes.
+A métrica de performance proposta para medir a generalização do modelo é a raiz quadrada do erro quadrático (RMSE).
+Para mais informações sobre a competição, o problema e os danados, acesse o link: https://www.kaggle.com/competitions/test-hackday-7
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+PRÓXIMOS PASSOS
+
+- Identificar e criar novas variáveis (features) que possam contribuir para melhorar o desempenho do modelo atual;
+- Fazer novos levantamentos de hipóteses afim de buscar novos insights e conhecimento do negócio;
+- Pesquisar e implementar novos algoritmos de Machine Learning, com o objetivo de aprimorar a precisão das previsões
+
