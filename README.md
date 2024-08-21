@@ -53,6 +53,9 @@ Foi necessário tranformar as datas em algo ciclico, para isso foi usado a tecni
 ### Seleção das Features
 Para selecionar as melhores features para o modelo, foi treinado um modelo de RandonForest que pudesse selecionar as features mais relevantes. Após a seleção das features pelo modelo, foi calculada a importancias dessas features usando a métrica Mean Decrease In Impurity - MDI (Diminuição Média na Impureza), que avalia quando cada feature contribui para a redução da impureza nas divisoes do modelo, e foi plotado um gráfico.
 
+![Captura de Tela 2024-08-20 às 22 58 57](https://github.com/user-attachments/assets/0f4dd040-7844-4c79-b5d4-f88ae1b40892)
+
+
 ### Algoritmos utilizados
 Para realizar o treinamento e as prediçoes foram usados os algoritmos:
 - Random Forest;
